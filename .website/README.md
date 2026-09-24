@@ -1,4 +1,7 @@
 ---
+genres:
+  - action
+  - adventure
 post: https://web.archive.org/web/20230409032545/64mega.github.io/js13k-postmortem-2017.html
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
